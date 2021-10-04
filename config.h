@@ -51,7 +51,7 @@ static const Rule rules[] = {
 	/* class      instance    title       tags mask     iscentered     isfloating   monitor */
 	{ "Gimp",     NULL,       NULL,       0,            0,             1,           -1 },
 	{ "feh",      NULL,       NULL,       0,            1,             1,           -1 },
-	{ "mpv",      NULL,       NULL,       0,            1,             1,           -1 },
+	{ "mpv",      NULL,       NULL,       0,            1,             0,           -1 },
 	{ "st",       NULL, "st (floating)",  0,            1,             1,           -1 },
 	{ "sxiv",     NULL, "sxiv (floating)", 0,           1,             1,           -1 },
 };
