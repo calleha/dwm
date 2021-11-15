@@ -4,6 +4,7 @@ Included patches:
 - alpha
 - center
 - cyclelayouts
+- nomonocleborders
 - pertag
 - selfrestart
 - statuspadding
